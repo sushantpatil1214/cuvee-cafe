@@ -1,0 +1,125 @@
+{
+  "Coffee": [
+    { "name": "Espresso", "price": "₹140", "desc": "Classic bold espresso shot.", "img": "https://picsum.photos/seed/espresso/90" },
+    { "name": "Americano", "price": "₹160", "desc": "Smooth and rich, diluted espresso.", "img": "https://picsum.photos/seed/americano/90" },
+    { "name": "Cappuccino", "price": "₹200", "desc": "Espresso topped with creamy froth.", "img": "https://picsum.photos/seed/cappuccino/90" },
+    { "name": "Cafe Latte", "price": "₹200", "desc": "Silky milk with double espresso.", "img": "https://picsum.photos/seed/latte/90" },
+    { "name": "Flat White", "price": "₹220", "desc": "Smooth ristretto with velvety milk.", "img": "https://picsum.photos/seed/flatwhite/90" },
+    { "name": "Cortado", "price": "₹180", "desc": "Balanced espresso and warm milk.", "img": "https://picsum.photos/seed/cortado/90" },
+    { "name": "Macchiato", "price": "₹180", "desc": "Espresso with a dollop of milk foam.", "img": "https://picsum.photos/seed/macchiato/90" },
+    { "name": "Cafe Bombon", "price": "₹240", "desc": "Espresso layered with sweet condensed milk.", "img": "https://picsum.photos/seed/bombon/90" },
+    { "name": "Cinnamon Latte", "price": "₹240", "desc": "Latte infused with cinnamon spice.", "img": "https://picsum.photos/seed/cinnamon/90" },
+    { "name": "Mocha Chocolate", "price": "₹240", "desc": "Chocolate indulgence with espresso.", "img": "https://picsum.photos/seed/mocha/90" },
+    { "name": "Sea Salt Mocha", "price": "₹240", "desc": "Rich mocha with a salty-sweet twist.", "img": "https://picsum.photos/seed/seasalt/90" },
+    { "name": "Hot Matcha Latte", "price": "₹250", "desc": "Creamy Japanese matcha and milk.", "img": "https://picsum.photos/seed/matcha/90" },
+    { "name": "Classic Cold Brew", "price": "₹250", "desc": "Slow-brewed smooth black coffee.", "img": "https://picsum.photos/seed/coldbrew/90" },
+    { "name": "Orange Cold Brew", "price": "₹250", "desc": "Cold brew infused with citrus notes.", "img": "https://picsum.photos/seed/orangecold/90" },
+    { "name": "Ginger Ale Cold Brew", "price": "₹250", "desc": "Zesty ginger ale topped cold brew.", "img": "https://picsum.photos/seed/ginger/90" },
+    { "name": "Passionfruit Cold Brew", "price": "₹250", "desc": "Tropical fruity twist on cold brew.", "img": "https://picsum.photos/seed/passion/90" },
+    { "name": "Cold Brew Tonic", "price": "₹250", "desc": "Refreshing tonic water with coffee.", "img": "https://picsum.photos/seed/tonic/90" },
+    { "name": "Classic Cold Coffee", "price": "₹220", "desc": "Cafe-style chilled coffee.", "img": "https://picsum.photos/seed/coldcoffee/90" },
+    { "name": "Iced Espresso", "price": "₹160", "desc": "Chilled espresso shot.", "img": "https://picsum.photos/seed/icedespresso/90" },
+    { "name": "Iced Americano", "price": "₹180", "desc": "Cool and crisp Americano over ice.", "img": "https://picsum.photos/seed/icedamericano/90" },
+    { "name": "Iced Latte", "price": "₹220", "desc": "Espresso with cold milk.", "img": "https://picsum.photos/seed/icedlatte/90" },
+    { "name": "Iced Cappuccino", "price": "₹220", "desc": "Chilled cappuccino over ice.", "img": "https://picsum.photos/seed/icedcappuccino/90" },
+    { "name": "Salted Caramel Frappe", "price": "₹240", "desc": "Caramel, ice, and coffee blended.", "img": "https://picsum.photos/seed/frappe/90" },
+    { "name": "Iced Vietnamese", "price": "₹240", "desc": "Strong iced coffee with condensed milk.", "img": "https://picsum.photos/seed/vietnamese/90" },
+    { "name": "Vietnamese Shakerato", "price": "₹240", "desc": "Iced shaken Vietnamese coffee.", "img": "https://picsum.photos/seed/shakerato/90" },
+    { "name": "Iced Mocha Chocolate", "price": "₹240", "desc": "Chocolate mocha served cold.", "img": "https://picsum.photos/seed/icedmocha/90" },
+    { "name": "Iced Sea Salt Mocha", "price": "₹240", "desc": "Sweet & salty iced mocha.", "img": "https://picsum.photos/seed/icedseasalt/90" },
+    { "name": "Affogato Ice Cream", "price": "₹240", "desc": "Vanilla ice cream with espresso shot.", "img": "https://picsum.photos/seed/affogato/90" },
+    { "name": "Espresso Tonic", "price": "₹220", "desc": "Chilled espresso with tonic water.", "img": "https://picsum.photos/seed/espressotonic/90" },
+    { "name": "Espresso Redbull", "price": "₹260", "desc": "Energy twist: espresso & Red Bull.", "img": "https://picsum.photos/seed/redbull/90" },
+    { "name": "Tiramisu Latte", "price": "₹280", "desc": "Latte inspired by Italian tiramisu.", "img": "https://picsum.photos/seed/tiramisu/90" },
+    { "name": "Iced Matcha Latte", "price": "₹250", "desc": "Refreshing iced green matcha latte.", "img": "https://picsum.photos/seed/icedmatcha/90" },
+    { "name": "Hot Chocolate", "price": "₹300", "desc": "Creamy hot cocoa.", "img": "https://picsum.photos/seed/hotchocolate/90" },
+    { "name": "Cold Chocolate", "price": "₹300", "desc": "Chilled chocolate milkshake style.", "img": "https://picsum.photos/seed/coldchoco/90" }
+  ],
+
+  "Beyond Coffee": [
+    { "name": "Black Tea", "price": "₹200", "desc": "Strong & robust black tea.", "img": "https://picsum.photos/seed/blacktea/90" },
+    { "name": "Darjeeling Green Tea", "price": "₹200", "desc": "Delicate floral Darjeeling tea.", "img": "https://picsum.photos/seed/greentea/90" },
+    { "name": "Rose Earl Grey", "price": "₹200", "desc": "Floral rose twist on Earl Grey.", "img": "https://picsum.photos/seed/earlgrey/90" },
+    { "name": "Kashmiri Kahwa", "price": "₹200", "desc": "Saffron infused spiced green tea.", "img": "https://picsum.photos/seed/kahwa/90" },
+    { "name": "Hibiscus Rose", "price": "₹200", "desc": "Tangy hibiscus with rose petals.", "img": "https://picsum.photos/seed/hibiscus/90" },
+    { "name": "Chamomile", "price": "₹200", "desc": "Relaxing chamomile infusion.", "img": "https://picsum.photos/seed/chamomile/90" },
+    { "name": "Hibiscus Iced Tea", "price": "₹220", "desc": "Chilled hibiscus tea.", "img": "https://picsum.photos/seed/hibiscusiced/90" },
+    { "name": "Lemon Iced Tea", "price": "₹220", "desc": "Refreshing lemon iced tea.", "img": "https://picsum.photos/seed/lemontea/90" },
+    { "name": "Peach Iced Tea", "price": "₹220", "desc": "Fruity peach iced tea.", "img": "https://picsum.photos/seed/peachtea/90" },
+    { "name": "Green Apple Iced Tea", "price": "₹220", "desc": "Crisp apple twist in iced tea.", "img": "https://picsum.photos/seed/appletea/90" },
+    { "name": "Basil Slush", "price": "₹250", "desc": "Icy basil slush refreshment.", "img": "https://picsum.photos/seed/basil/90" },
+    { "name": "Kala Khatta Slush", "price": "₹250", "desc": "Tangy Indian kala khatta.", "img": "https://picsum.photos/seed/kalakhata/90" },
+    { "name": "Virgin Mojito", "price": "₹250", "desc": "Mint, lime, soda classic mocktail.", "img": "https://picsum.photos/seed/mojito/90" },
+    { "name": "Orange Rosemary", "price": "₹250", "desc": "Citrusy mocktail with rosemary.", "img": "https://picsum.photos/seed/orangerose/90" },
+    { "name": "Banana Caramel Shake", "price": "₹280", "desc": "Creamy banana & caramel shake.", "img": "https://picsum.photos/seed/bananacaramel/90" },
+    { "name": "Nutella Shake", "price": "₹280", "desc": "Nutella blended into milkshake.", "img": "https://picsum.photos/seed/nutella/90" },
+    { "name": "Peanut Butter & Banana Smoothie", "price": "₹280", "desc": "Smoothie with banana & PB.", "img": "https://picsum.photos/seed/pbsmoothie/90" },
+    { "name": "Cold COCO", "price": "₹280", "desc": "Cold chocolate coconut drink.", "img": "https://picsum.photos/seed/coco/90" },
+    { "name": "Strawberry & Banana Smoothie", "price": "₹300", "desc": "Strawberry & banana blended.", "img": "https://picsum.photos/seed/strawberry/90" }
+  ],
+
+  "All Day Breakfast": [
+    { "name": "Eggs To Order", "price": "₹280", "desc": "Two eggs with toast, salad, tomato.", "img": "https://picsum.photos/seed/eggs/90" },
+    { "name": "Stuffed Omelette - Veggies & Cheddar", "price": "₹300", "desc": "Omelette with sautéed veggies & cheddar.", "img": "https://picsum.photos/seed/omelette/90" },
+    { "name": "Stuffed Omelette - 3 Cheese", "price": "₹300", "desc": "Mozzarella, cheddar, parmesan inside.", "img": "https://picsum.photos/seed/3cheese/90" },
+    { "name": "Stuffed Omelette - Chicken", "price": "₹320", "desc": "Grilled chicken with Thousand Island.", "img": "https://picsum.photos/seed/chickenomelette/90" },
+    { "name": "Cilbir (Turkish Eggs)", "price": "₹350", "desc": "Poached eggs on garlic yogurt.", "img": "https://picsum.photos/seed/cilbir/90" },
+    { "name": "Pancakes", "price": "₹350", "desc": "Nutella, maple syrup & berries.", "img": "https://picsum.photos/seed/pancakes/90" },
+    { "name": "Oatmeal Bowl", "price": "₹350", "desc": "Oats with fruits & granola.", "img": "https://picsum.photos/seed/oatmeal/90" },
+    { "name": "Chicken Kheema", "price": "₹380", "desc": "Spiced minced chicken with sourdough.", "img": "https://picsum.photos/seed/kheema/90" }
+  ],
+
+  "Sandwiches": [
+    { "name": "Classic Caprese", "price": "₹250", "desc": "Tomato, mozzarella & pesto.", "img": "https://picsum.photos/seed/caprese/90" },
+    { "name": "Cottage Cheese BBQ", "price": "₹280", "desc": "BBQ paneer with veggies.", "img": "https://picsum.photos/seed/paneer/90" },
+    { "name": "Cauliflower Po-Boy", "price": "₹280", "desc": "Cajun cauliflower with creamy dressing.", "img": "https://picsum.photos/seed/cauli/90" },
+    { "name": "Guac & Veggies", "price": "₹320", "desc": "Guacamole & roasted veggies.", "img": "https://picsum.photos/seed/guac/90" },
+    { "name": "Caesar Chicken", "price": "₹320", "desc": "Grilled chicken & Caesar dressing.", "img": "https://picsum.photos/seed/caesarchicken/90" },
+    { "name": "BBQ Chicken", "price": "₹320", "desc": "Smoky BBQ chicken sandwich.", "img": "https://picsum.photos/seed/bbqchicken/90" },
+    { "name": "Crispy Chicken Ranch", "price": "₹350", "desc": "Crispy chicken with ranch.", "img": "https://picsum.photos/seed/ranch/90" }
+  ],
+
+  "Toasties": [
+    { "name": "Tomato Basil", "price": "₹220", "desc": "Tomato, basil & feta cheese.", "img": "https://picsum.photos/seed/tomatobasil/90" },
+    { "name": "Mushroom Spinach & Corn", "price": "₹220", "desc": "Mushrooms, spinach, corn in sauce.", "img": "https://picsum.photos/seed/mushroom/90" },
+    { "name": "Guacamole & Sunny Side Up", "price": "₹250", "desc": "Guac on sourdough with egg.", "img": "https://picsum.photos/seed/guacup/90" },
+    { "name": "Avocado & Scrambled Egg", "price": "₹250", "desc": "Avocado & scrambled egg toast.", "img": "https://picsum.photos/seed/avoegg/90" },
+    { "name": "Creamy Chicken", "price": "₹280", "desc": "Herbed creamy chicken toast.", "img": "https://picsum.photos/seed/creamychicken/90" },
+    { "name": "BBQ Chicken", "price": "₹280", "desc": "Toasty BBQ chicken mix.", "img": "https://picsum.photos/seed/toastbbq/90" }
+  ],
+
+  "Pasta": [
+    { "name": "Alfredo", "price": "₹280", "desc": "Creamy white sauce pasta.", "img": "https://picsum.photos/seed/alfredo/90" },
+    { "name": "Arrabiata", "price": "₹280", "desc": "Bold tomato garlic sauce.", "img": "https://picsum.photos/seed/arrabiata/90" },
+    { "name": "Basil Pesto", "price": "₹280", "desc": "Pasta with herby pesto.", "img": "https://picsum.photos/seed/pesto/90" },
+    { "name": "Aglio Olio", "price": "₹280", "desc": "Spaghetti with olive oil & garlic.", "img": "https://picsum.photos/seed/aglio/90" }
+  ],
+
+  "Salads": [
+    { "name": "Spicy Caesar Salad", "price": "₹250", "desc": "Classic Caesar with a spicy kick.", "img": "https://picsum.photos/seed/caesarsalad/90" },
+    { "name": "Tex Mex Salad", "price": "₹250", "desc": "Hearty Tex Mex flavors with paneer/chicken.", "img": "https://picsum.photos/seed/texmex/90" },
+    { "name": "Summer Salad With Walnut & Orange", "price": "₹280", "desc": "Light greens with orange & walnuts.", "img": "https://picsum.photos/seed/summersalad/90" },
+    { "name": "Apple & Lettuce With Balsamic", "price": "₹280", "desc": "Apple & lettuce with balsamic glaze.", "img": "https://picsum.photos/seed/applesalad/90" }
+  ],
+
+  "Quick Bites": [
+    { "name": "French Fries", "price": "₹220", "desc": "Golden and crispy fries.", "img": "https://picsum.photos/seed/fries/90" },
+    { "name": "Peri Peri French Fries", "price": "₹230", "desc": "Spicy peri peri fries.", "img": "https://picsum.photos/seed/periperi/90" },
+    { "name": "Cheese Garlic Bread", "price": "₹250", "desc": "Garlicky bread with cheese.", "img": "https://picsum.photos/seed/garlicbread/90" },
+    { "name": "Cheese Chilli Toast", "price": "₹250", "desc": "Toasted bread with cheese & chilli.", "img": "https://picsum.photos/seed/chillitoast/90" },
+    { "name": "Potato Wedges", "price": "₹260", "desc": "Seasoned potato wedges.", "img": "https://picsum.photos/seed/wedges/90" }
+  ],
+
+  "Wholesome Bowls": [
+    { "name": "Green / Yellow Thai Bowl", "price": "₹350", "desc": "Coconut curry with rice (veg/chicken).", "img": "https://picsum.photos/seed/thai/90" },
+    { "name": "Khao Suey Bowl", "price": "₹350", "desc": "Burmese coconut noodle bowl.", "img": "https://picsum.photos/seed/khaosuey/90" },
+    { "name": "Katsu Bowl", "price": "₹380", "desc": "Crispy paneer/chicken with katsu sauce.", "img": "https://picsum.photos/seed/katsu/90" },
+    { "name": "Tuscan Bowl", "price": "₹380", "desc": "Paneer/chicken in sun-dried tomato sauce.", "img": "https://picsum.photos/seed/tuscan/90" }
+  ],
+
+  "Desserts": [
+    { "name": "Lotus Biscoff Cheesecake", "price": "₹350", "desc": "Caramel & Biscoff delight.", "img": "https://picsum.photos/seed/biscoff/90" },
+    { "name": "Blueberry Cheesecake", "price": "₹350", "desc": "Cheesecake topped with blueberries.", "img": "https://picsum.photos/seed/blueberry/90" },
+    { "name": "Chocolate Truffle", "price": "₹350", "desc": "Decadent chocolate truffle cake.", "img": "https://picsum.photos/seed/truffle/90" }
+  ]
+}
